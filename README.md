@@ -1,7 +1,8 @@
 # 8th-grade
 # This repository includes practice problems for the USA Computing Olympiad from USACO Guide (https://usaco.guide) and problems from ACSL (American Computer Science League) Competition.
 ## Table of Contents
-The below is organized based on the section it is in, in USACO Guide. This repository is organized based on, which problems are directly from the USA Coding Olympiad versus which ones are generic practice problems found in, for example, Codeforces or CSES.
+This repository is organized into three packages: USACOPrograms includes problems that are directly from the USA Coding Olympiad, JavaPrograms includes generic practice problems found in, for example, Codeforces or CSES, and ACSLPrograms include problems from the ACSL competition.
+The below is, however, organized based on the section it is located in USACO Guide in order to clarify which topic each problem focuses on.
 - USACO Guide Prefix Sum Practice
     - BreedCounting.java
     - Sequences.java
