@@ -1,4 +1,4 @@
-package USACOPrograms;
+package JavaPrograms;
 import java.util.*;
 
 //USACO Guide Silver PrefixSums Part 1, Problem: IrreducibleAnagrams on Codeforces
