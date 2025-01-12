@@ -1,5 +1,5 @@
 # 8th-grade
-# This repository includes practice problems for the USA Computing Olympiad from USACO Guide (https://usaco.guide) and problesms from ACSL (American Computer Science League) Competition.
+# This repository includes practice problems for the USA Computing Olympiad from USACO Guide (https://usaco.guide) and problems from ACSL (American Computer Science League) Competition.
 ## Table of Contents
 The below is organized based on the section it is in, in USACO Guide. This repository is organized based on, which problems are directly from the USA Coding Olympiad versus which ones are generic practice problems found in, for example, Codeforces or CSES.
 - USACO Guide Prefix Sum Practice
