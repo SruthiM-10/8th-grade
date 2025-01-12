@@ -16,6 +16,7 @@ The below is, however, organized based on the section it is located in USACO Gui
     - RunningMiles.java
     - IrreducibleAnagrams.java
     - MultipleOf2019.java
+  
   2D Prefix Sum Practice
     - PaintBarn.java
     - TheLazyCow.java
